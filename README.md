@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <h1 align="center">Working with:</h1>
 <div align="center">
