@@ -9,6 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-<div>
-  https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theblqnc&theme=dark&show_icons=true)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblqnc&layout=compact">
 </div>
